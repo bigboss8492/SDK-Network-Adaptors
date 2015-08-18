@@ -1,7 +1,7 @@
 /**
  * Copyright (c) 2013 AppLovin.
  */
-package YOUR_PACKAGE_NAME;
+package com.vasagames.moneygrabber;
 
 import android.app.Activity;
 
